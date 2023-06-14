@@ -3,8 +3,8 @@
 
 
 // DONT CHANGE. THIS IS FOR TESTING
-let animals = [ "Bat", "Cat", "Cat", "Dog", "Cat", "Duck", "Leopard", "Fish"]
+let animals = [ "Bat", "Cat", "Cat", "Dog", "Cow", "Duck", "Dog", "Fish", "Cow", "Dog", "Duck", "Duck" ]
 
-for (let animals of animals) {
-	console.log(whatSound(animal)
+for (let animal of animals) {
+        whatSound(animal)
 }
